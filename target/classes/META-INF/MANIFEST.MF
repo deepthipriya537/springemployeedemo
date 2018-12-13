@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: deepthiimmadisetty
+Build-Jdk: 11.0.1
+Implementation-Title: springdemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.spring
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springdemo
+Created-By: Maven Integration for Eclipse
+
